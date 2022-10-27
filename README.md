@@ -16,3 +16,6 @@
 ## Deliverable 3
 ### T-Tests on Suspension Coils
 - When we collected our t tests on suspension coils for lots 1-3, we are able to see see that the lots 1 and 2 had an even and normal rate of disturbtion with their P values being over the 0.05 mark. However, in lot 3, we can see when we run our delieverable that the value of the p is lower than the 0.05 mark of the interval. 
+
+## Deliverable 4
+- 
