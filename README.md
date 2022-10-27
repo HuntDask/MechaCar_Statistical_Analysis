@@ -1,6 +1,6 @@
 # MechaCar_Statistical_Analysis
 
-##Deliverable 1
+# Deliverable 1
 ### Linear Regression to Predict MPG
 - From our created summary, we can see that the vehicle lenght and the ground clearance were the varaibles/coefficients that helped to represent the non-random amount of variance to the mpg values in the dataset
 - When we are able to convert to scientific notation, we can see that even though some of the slopes of the linear model are close, none of them are considered to be zero. This is because we can test the linear regression formula for mpg and it does not result in the slope being zero.
