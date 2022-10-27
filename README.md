@@ -10,8 +10,7 @@
 ## Deliverable 2
 ### Summary Statistics on Suspension Coils
 - As we can see through our image and our data collected, the variance is at about 62 which is lower than 100 pounds per square inch. From the following image we collected of the different lots, we see that lot 1 and 2 are very low compared to lot 3 at about 170 variance. lot 3 does exceed our 100 pounds per square inch compared to the other two lots.
-<img width="637" alt="Deliverable 2 " src="https://user-images.githubusercontent.com/107444840/198185610-12c0f0bb-e197-4f1a-bcae-d6aeaf0bf6b7.png">
-<img width="822" alt="Deliverable 2 p2" src="https://user-images.githubusercontent.com/107444840/198185628-08617150-3307-4322-8088-d43ef7e641e7.png">
+
 
 ## Deliverable 3
 ### T-Tests on Suspension Coils
